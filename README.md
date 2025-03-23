@@ -1,5 +1,10 @@
 # Sales Order Web Application
- <h4>This is a Asp.Net Web App that features Order function.</h4>
+* .NET 8.0
+* Dapper
+* Log4Net
+* Serilog
+
+<h4>This is a Asp.Net Web App that features Order function.</h4>
 <div style="display: inline-block;">
     <img alt="C#" src="https://img.shields.io/badge/C%23-blue?style=for-the-badge&logo=C%23">
     <img alt="ASP.NET" src="https://img.shields.io/badge/Asp.Net-purple?style=for-the-badge&logo=.net">
